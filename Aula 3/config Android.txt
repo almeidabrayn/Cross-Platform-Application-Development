@@ -1,0 +1,2 @@
+$env:ANDROID_HOME="C:\Android\SDK"
+$env:Path += ";$env:ANDROID_HOME\platform-tools"
