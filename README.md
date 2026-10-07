@@ -7,9 +7,9 @@ Repositório dedicado ao armazenamento e organização dos códigos, projetos e 
 O projeto está organizado por pastas representando cada aula prática:
 
 * **Aula 3/** - Componentes, Props e Flatlists
-* **Aula 4/** - 
-* **Aula 5/** - 
-* **Aula 6/** - 
+* **Aula 4/** - Flexbox
+* **Aula 5/** - Navegação entre Telas
+* **Aula 6/** - Tab Navigator
 
 ## 🛠️ Tecnologias Utilizadas
 
